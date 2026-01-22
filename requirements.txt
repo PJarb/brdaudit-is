@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+torch==2.2.2
+sentence-transformers==2.6.1
+transformers==4.38.2
+huggingface-hub==0.21.4
+safetensors
+accelerate
